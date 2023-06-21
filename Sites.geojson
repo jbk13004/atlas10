@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "Sites",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "fid": 29035, "id": 525, "site_name": "The Home Depot - Store 2010", "site_address": "5230 Pearl Dr", "site_city": "Evansville", "site_state": "IN", "site_zip": "47712", "site_region": null, "site_area": 273312.0, "site_pci": 58, "globalid": "{a03ed77f-408e-4ca3-ac70-678754afc748}", "pci_test": null, "timestamp": "2023-06-06T16:54:50", "client_globalid": "{9b4a0617-081d-4cb9-89ce-f5a31ccd9a61}" }, "geometry": { "type": "MultiPoint", "coordinates": [ [ -87.638930338601071, 37.973532976655321 ] ] } }
+]
+}
